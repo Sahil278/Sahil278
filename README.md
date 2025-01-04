@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sahil278 from Himalayas
-- 👀 I’m interested in music
-- 🌱 I’m currently learning Blockchain technology 
+- 👀 I’m interested in web3
 - 💞️ I’m looking to collaborate on Blockchains
 - 📫 How to reach me . Twitter @sahil3300
 
